@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amal Ahmed</h1>
+<h1 align="center">HI THERE <img src="wave.gif" width="30px"></h1>, I'm Amal Ahmed</h1>
 <h3 align="center">Frontend Engineer</h3>
 
 <!--
