@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, Welcome to my Github profile!<img src="./assets/wave.gif" width="30px">, I'm Amal Ahmed</h1>
 
-### 🙎🏻‍♀️ &nbsp;About Me:
+### 🙎🏻‍♀️ &nbsp;About Me :
 
 <img alt="hero image" src="./assets/hero-image.png" align="right" width = 30%/>
 
@@ -9,8 +9,8 @@
 💡 &nbsp; Passionate about working on anything web related especially the Frontend.\
 🙎🏻‍♀️ &nbsp; Being a diligent, hardworking, and result-oriented lady.\
 💻 &nbsp; I always work towards achieving the best results on each project I lay my hands on.\
-💼 &nbsp; For more details about me: https://www.amalahmad.com/ .\
-📫 &nbsp; Reach out to me at : dev.amal.ahmed@gmail.com.\
+💼 &nbsp; For more details about me: https://www.amalahmad.com .\
+📫 &nbsp; Reach out to me at : dev.amal.ahmed@gmail.com
 
 ### 🛠 &nbsp;Tech Stack
 
