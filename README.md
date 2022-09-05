@@ -2,6 +2,8 @@
 
 ### 🙎🏻‍♀️ &nbsp;About Me
 
+<img alt="hero image" src="./assets/hero-image.png" align="right" width = 30%/>
+
 👩‍💻 &nbsp; Working as front end engineer.\
 🎓 &nbsp; I am a Computer Science graduate.\
 💡 &nbsp; Passionate about working on anything web related especially the Frontend.\
@@ -9,8 +11,6 @@
 💻 &nbsp; I always work towards achieving the best results on each project I lay my hands on.\
 💼 &nbsp; For more details about me: https://www.amalahmad.com/ .\
 📫 &nbsp; Reach out to me at : dev.amal.ahmed@gmail.com.\
-
-<img alt="hero image" src="./assets/hero-image.png" align="right" width = 30%/>
 
 ### 🛠 &nbsp;Tech Stack
 
