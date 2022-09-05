@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, Welcome to my Github profile!<img src="./assets/wave.gif" width="30px">, I'm Amal Ahmed</h1>
 
-### 🙎🏻‍♀️ &nbsp;About Me
+### 🙎🏻‍♀️ &nbsp;About Me:
 
 <img alt="hero image" src="./assets/hero-image.png" align="right" width = 30%/>
 
