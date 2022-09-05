@@ -22,8 +22,11 @@
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/amal-fathelbab/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="https://www.behance.net/Amalfathelbab" target="_blank" rel="noopener noreferrer"><img src="https://www.flaticon.com/free-icon/behance_3536806?term=behance&page=1&position=3&page=1&position=3&related_id=3536806&origin=search" width="50" /></a>  
-&nbsp; <a href="mailto:dev.amal.ahmed@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://www.flaticon.com/free-icon/email_552486?term=mail&page=1&position=15&page=1&position=15&related_id=552486&origin=search"  width="50" /></a>
-&nbsp; <a href="https://twitter.com/_souvikguria" target="_blank" rel="noopener noreferrer"><img src="https://www.flaticon.com/free-icon/twitter_3256013?term=twitter&page=1&position=5&page=1&position=5&related_id=3256013&origin=search" width="50" /></a>
+&nbsp; <a href="mailto:dev.amal.ahmed@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"  width="50" /></a>
+&nbsp; <a href="https://www.behance.net/Amalfathelbab" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/behance.png" width="50" /></a>
+&nbsp; <a href="https://www.amalahmad.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/user-female-circle--v1.png" width="50" /></a>
+&nbsp; <a href="https://drive.google.com/file/d/1p5LBxguaWJT1OpcxAyrSyz8Z0dTrCw_O/view?usp=sharing" target="_blank"><img src="https://img.icons8.com/color/48/000000/resume.png" width="50" /></a>
+&nbsp; <a href="https://twitter.com/devamalahmed" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png" width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/dev.amal.ahmed/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="50" /></a>
 
 </p>
