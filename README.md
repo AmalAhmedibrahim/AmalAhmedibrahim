@@ -1,5 +1,5 @@
-<h1 align="center">HI THERE <img src="wave.gif" width="30px"></h1>, I'm Amal Ahmed</h1>
-<h3 align="center">Frontend Engineer</h3>
+<h1 align="center">HI THERE <img src="wave.gif" width="30px">, I'm Amal Ahmed</h1>
+<h2 align="center">Frontend Engineer</h2>
 
 <!--
 **AmalAhmedibrahim/AmalAhmedibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
