@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, Welcome to my Github profile!<img src="./assets/wave.gif" width="30px">, I'm Amal Ahmed</h1>
+<h1 align="center">Hi, Welcome to my Github profile!<img src="./assets/wave.gif" width="30px">, I'm Amal</h1>
 
 <h3> 🙎🏻‍♀️ &nbsp;About Me : </h3>
 
