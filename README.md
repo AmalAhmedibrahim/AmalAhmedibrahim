@@ -1,7 +1,5 @@
-### HI THERE 👋 I'M
-Amal Ahmed
-Frontend Engineer
-I’m a passionate front-end engineer with professional experience in web development, especially the front-end.
+<h1 align="center">Hi 👋, I'm Amal Ahmed</h1>
+<h3 align="center">Frontend Engineer</h3>
 
 <!--
 **AmalAhmedibrahim/AmalAhmedibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
