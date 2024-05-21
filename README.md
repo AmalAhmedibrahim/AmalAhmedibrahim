@@ -4,13 +4,13 @@
 
 <img alt="hero image" src="./assets/hero-image.png" align="right" width = 30%/>
 
-👩‍💻 &nbsp; Working as front end engineer.\
+👩‍💻 &nbsp; Working as a senior front-end engineer.\
 🎓 &nbsp; I am a Computer Science graduate.\
-💡 &nbsp; Passionate about working on anything web related especially the Frontend.\
+💡 &nbsp; Passionate about working on anything web-related, especially the front-end.\
 🙎🏻‍♀️ &nbsp; a diligent, hardworking, and result-oriented lady.\
 💻 &nbsp; I always work towards achieving the best results on each project I lay my hands on.\
 💼 &nbsp; Portfolio: https://www.amalahmad.com .\
-📫 &nbsp; Reach out to me at : dev.amal.ahmed@gmail.com
+📫 &nbsp; Reach out to me at: dev.amal.ahmed@gmail.com
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
