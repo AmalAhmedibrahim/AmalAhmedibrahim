@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Amal Ahmed</h1>
 
 <h3 align="center">
@@ -164,4 +163,3 @@ I specialize in developing modern, scalable, and high-performance applications u
 <p align="center">
 <i>"Turning complex ideas into fast, scalable, and delightful user experiences."</i>
 </p>
-```
