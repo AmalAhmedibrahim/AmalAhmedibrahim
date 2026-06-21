@@ -1,4 +1,4 @@
-# <h1 align="center">Hi there 👋 I'm Amal Ahmed</h1>
+# <h1 align="center">Hi 👋 I'm Amal Ahmed</h1>
 
 <h3 align="center">
 Senior Frontend Engineer • Angular • React • TypeScript
@@ -16,109 +16,103 @@ Building scalable, high-performance web applications with modern frontend techno
 
 ---
 
-# 👩🏻‍💻 About Me
+## 👩🏻‍💻 About Me
 
 I'm a **Senior Frontend Engineer** with **7+ years of experience** building enterprise-scale web applications.
 
-I specialize in creating fast, scalable, and maintainable frontend solutions using **Angular**, **React**, and **TypeScript**. I enjoy solving complex engineering challenges, designing reusable component architectures, and delivering seamless user experiences.
+I specialize in crafting fast, scalable, and maintainable applications using **Angular**, **React**, and **TypeScript**. I enjoy solving complex engineering challenges, designing reusable architectures, and collaborating with cross-functional teams to deliver exceptional user experiences.
 
-✨ What I bring to a team:
+### 🚀 What I Bring
 
-* 🚀 7+ years building production-ready web applications
-* ⚡ Strong expertise in **Angular**, **React**, **TypeScript**, and modern JavaScript
-* 🏗️ Frontend architecture & scalable component design
-* 🎨 Pixel-perfect implementation from Figma designs
-* 📈 Performance optimization & Core Web Vitals
-* ♿ Accessibility-first development
-* 🤝 Close collaboration with Product, Design, QA, and Backend teams
-* 🤖 AI-powered development with Cursor, GitHub Copilot & Claude Code
+* ⚡ 7+ years of frontend engineering experience
+* 🏗️ Enterprise-scale application development
+* 🧩 Component-driven architecture & reusable UI libraries
+* 📈 Performance optimization, lazy loading & code splitting
+* 🎨 Pixel-perfect implementation from Figma
+* 📱 Responsive, accessible, and mobile-first development
+* 🔗 RESTful API integration
+* 🤝 Agile collaboration with Product, Design, QA & Backend teams
+* 🤖 AI-assisted development using Cursor, GitHub Copilot & Claude Code
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
+### 🚀 Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
-
-### Languages
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Styling
-
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge\&logo=ngrx\&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge\&logo=reactivex\&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-009688?style=for-the-badge\&logo=angular\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-### State Management
+### ⚙️ Backend
 
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge\&logo=reactivex\&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
 
-### Tools
+### 🏛 Architecture & Engineering
+
+* Component-Based Architecture
+* State Management (NgRx)
+* Responsive Design
+* RESTful APIs
+* Performance Optimization
+* Lazy Loading
+* SOLID Principles
+* Clean Code
+* Scalable Frontend Architecture
+
+### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge\&logo=github)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
 
 ---
 
-# 🚀 What I Love Building
+## 💡 What I Love Building
 
 * Enterprise Web Applications
-* Scalable Frontend Architectures
-* Reusable Component Libraries
+* Frontend Architecture
 * Design Systems
+* Reusable UI Components
 * High-Performance User Interfaces
 * Responsive & Accessible Experiences
+* Modern Angular & React Applications
 
 ---
 
-# 📈 GitHub Stats
+## 🌍 Languages
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent"/>
-</p>
+* 🇬🇧 English — Fluent
+* 🇪🇬 Arabic — Native
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/amal-fathelbab/">
-<img src="https://img.icons8.com/color/48/linkedin.png"/>
-</a>
-
-<a href="mailto:dev.amal.ahmed@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail--v1.png"/>
-</a>
-
-<a href="https://www.amalahmad.com">
-<img src="https://img.icons8.com/color/48/domain.png"/>
-</a>
-
-<a href="https://twitter.com/devamalahmed">
-<img src="https://img.icons8.com/color/48/twitter-squared.png"/>
-</a>
+<a href="https://www.linkedin.com/in/amal-fathelbab/">LinkedIn</a> • <a href="https://www.amalahmad.com">Portfolio</a> • <a href="mailto:dev.amal.ahmed@gmail.com">Email</a>
 
 </p>
 
 ---
 
 <h3 align="center">
-🚀 Open to Senior Frontend Engineer opportunities (Angular • React • TypeScript)
+🚀 Open to Senior Frontend Engineer Opportunities (Angular • React • TypeScript)
 </h3>
